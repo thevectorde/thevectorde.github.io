@@ -78,6 +78,7 @@ jobs:
           restore-keys:
             hugo-
       - name: Build the site
+        working-directory: ./thevector
         run: |
           hugo \
             --gc \
