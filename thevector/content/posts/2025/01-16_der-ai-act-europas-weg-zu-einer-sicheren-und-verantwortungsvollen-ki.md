@@ -13,6 +13,7 @@ tags:
   - dsgvo 
   - ai
   - europa
+  - News
 draft: false
 author: Pius Werner
 ---

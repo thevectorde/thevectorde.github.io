@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Owasp on thevector</title>
-    <link>http://localhost:41937/tags/owasp/</link>
+    <link>http://localhost:1313/tags/owasp/</link>
     <description>Recent content in Owasp on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 17 Jan 2025 19:28:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41937/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die OWASP Top 10: Ein umfassender Leitfaden für Web-Sicherheitsexperten im Jahr 2025</title>
-      <link>http://localhost:41937/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</link>
+      <link>http://localhost:1313/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</link>
       <pubDate>Fri, 17 Jan 2025 19:28:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</guid>
       <description>&lt;p&gt;Ein weiterer Hackerangriff, ein weiteres Unternehmen, das mit den Folgen eines Datenlecks kämpft – solche Meldungen sind längst Alltag. Die OWASP Top 10 bieten hier einen etablierten Rahmen, um die gravierendsten Schwachstellen in Webanwendungen zu verstehen und systematisch zu reduzieren.[web:65][web:69]&lt;/p&gt;</description>
     </item>
   </channel>

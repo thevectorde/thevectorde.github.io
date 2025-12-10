@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thevector</title>
-    <link>http://localhost:41937/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 12 Jun 2025 15:36:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41937/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Dec 2025 17:15:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein Blick hinter die Kulissen – Was thevector antreibt</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Wed, 10 Dec 2025 17:15:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;h2 id=&#34;unsere-mission&#34;&gt;Unsere Mission&lt;/h2&gt;&#xA;&lt;p&gt;thevector ist ein unabhängiges Open-Source-News- und Forschungsprojekt rund um IT-Sicherheit, Datenschutz und moderne Softwareentwicklung.  Unser Ziel ist es, fundierte technische Inhalte, tiefgehende Analysen und praxisnahe Lösungen transparent aufzubereiten und für alle frei zugänglich zu machen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Canary Tokens: Früherkennung durch Täuschung</title>
-      <link>http://localhost:41937/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</link>
+      <link>http://localhost:1313/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</link>
       <pubDate>Thu, 12 Jun 2025 15:36:00 +0200</pubDate>
-      <guid>http://localhost:41937/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</guid>
+      <guid>http://localhost:1313/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</guid>
       <description>&lt;p&gt;Moderne Cybersicherheit erfordert mehr als nur präventive Maßnahmen – sie braucht aktive Detektionsmechanismen, die Angreifer frühzeitig enttarnen. Täuschungstechniken (Deception Technologies) wie Canarytokens unterstützen Organisationen dabei, unbefugte Aktivitäten schnell zu identifizieren, bevor kritische Systeme kompromittiert werden.[web:31][web:45]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die OWASP Top 10: Ein umfassender Leitfaden für Web-Sicherheitsexperten im Jahr 2025</title>
-      <link>http://localhost:41937/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</link>
+      <link>http://localhost:1313/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</link>
       <pubDate>Fri, 17 Jan 2025 19:28:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</guid>
       <description>&lt;p&gt;Ein weiterer Hackerangriff, ein weiteres Unternehmen, das mit den Folgen eines Datenlecks kämpft – solche Meldungen sind längst Alltag. Die OWASP Top 10 bieten hier einen etablierten Rahmen, um die gravierendsten Schwachstellen in Webanwendungen zu verstehen und systematisch zu reduzieren.[web:65][web:69]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Der AI Act: Europas Weg zu einer sicheren und verantwortungsvollen KI</title>
-      <link>http://localhost:41937/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</link>
+      <link>http://localhost:1313/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</link>
       <pubDate>Thu, 16 Jan 2025 07:45:49 +0700</pubDate>
-      <guid>http://localhost:41937/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</guid>
+      <guid>http://localhost:1313/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</guid>
       <description>&lt;p&gt;Am 2. August 2024 trat der Artificial Intelligence Act (AI Act) der Europäischen Union in Kraft, ein bahnbrechendes Gesetz, das als weltweit erstes staatenübergreifendes Regelwerk für künstliche Intelligenz (KI) gilt. Dieses umfassende Regelwerk zielt darauf ab, einen ausgewogenen Ansatz zwischen Innovation und Sicherheit zu finden, indem es klare Richtlinien für die Entwicklung, den Einsatz und den Vertrieb von KI-Systemen innerhalb der EU festlegt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Akustischer Seitenkanalangriff auf Tastaturen</title>
-      <link>http://localhost:41937/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</link>
+      <link>http://localhost:1313/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</link>
       <pubDate>Tue, 14 Jan 2025 17:10:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</guid>
+      <guid>http://localhost:1313/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</guid>
       <description>&lt;h2 id=&#34;wichtiger-hinweis&#34;&gt;Wichtiger Hinweis&lt;/h2&gt;&#xA;&lt;p&gt;Dieser Artikel stellt ausschließlich den aktuellen &lt;strong&gt;Forschungsstand zu akustischen Seitenkanalangriffen&lt;/strong&gt; dar und dient nur zu Informations- und Bildungszwecken. Die praktische Anwendung der beschriebenen Methoden ohne ausdrückliche Erlaubnis ist illegal und kann strafrechtliche Konsequenzen nach sich ziehen. Leser sollten diese Informationen ausschließlich im Rahmen legaler und ethischer Richtlinien nutzen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Die elektronische Patientenakte: Ein Datenschutzunglück in Zeitlupe?</title>
-      <link>http://localhost:41937/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</link>
+      <link>http://localhost:1313/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</link>
       <pubDate>Mon, 13 Jan 2025 21:06:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</guid>
+      <guid>http://localhost:1313/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</guid>
       <description>&lt;p&gt;Die Einführung der elektronischen Patientenakte (ePA) wird politisch als Meilenstein der Digitalisierung im Gesundheitswesen verkauft, gleichzeitig warnen Sicherheits- und Datenschutzexperten seit Jahren vor gravierenden Schwachstellen. Durch das Opt-out-Verfahren stehen faktisch die Gesundheitsdaten von rund 70 Millionen Versicherten im Fokus – oft ohne ausreichende Transparenz über Risiken und Schutzmechanismen.&lt;/p&gt;</description>
     </item>
   </channel>

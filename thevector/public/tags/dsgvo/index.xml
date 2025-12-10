@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dsgvo on thevector</title>
-    <link>http://localhost:41937/tags/dsgvo/</link>
+    <link>http://localhost:1313/tags/dsgvo/</link>
     <description>Recent content in Dsgvo on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 16 Jan 2025 07:45:49 +0700</lastBuildDate>
-    <atom:link href="http://localhost:41937/tags/dsgvo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dsgvo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der AI Act: Europas Weg zu einer sicheren und verantwortungsvollen KI</title>
-      <link>http://localhost:41937/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</link>
+      <link>http://localhost:1313/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</link>
       <pubDate>Thu, 16 Jan 2025 07:45:49 +0700</pubDate>
-      <guid>http://localhost:41937/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</guid>
+      <guid>http://localhost:1313/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</guid>
       <description>&lt;p&gt;Am 2. August 2024 trat der Artificial Intelligence Act (AI Act) der Europäischen Union in Kraft, ein bahnbrechendes Gesetz, das als weltweit erstes staatenübergreifendes Regelwerk für künstliche Intelligenz (KI) gilt. Dieses umfassende Regelwerk zielt darauf ab, einen ausgewogenen Ansatz zwischen Innovation und Sicherheit zu finden, indem es klare Richtlinien für die Entwicklung, den Einsatz und den Vertrieb von KI-Systemen innerhalb der EU festlegt.&lt;/p&gt;</description>
     </item>
   </channel>

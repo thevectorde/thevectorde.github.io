@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep-Learning on thevector</title>
-    <link>http://localhost:41937/tags/deep-learning/</link>
+    <link>http://localhost:1313/tags/deep-learning/</link>
     <description>Recent content in Deep-Learning on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 14 Jan 2025 17:10:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41937/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akustischer Seitenkanalangriff auf Tastaturen</title>
-      <link>http://localhost:41937/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</link>
+      <link>http://localhost:1313/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</link>
       <pubDate>Tue, 14 Jan 2025 17:10:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</guid>
+      <guid>http://localhost:1313/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</guid>
       <description>&lt;h2 id=&#34;wichtiger-hinweis&#34;&gt;Wichtiger Hinweis&lt;/h2&gt;&#xA;&lt;p&gt;Dieser Artikel stellt ausschließlich den aktuellen &lt;strong&gt;Forschungsstand zu akustischen Seitenkanalangriffen&lt;/strong&gt; dar und dient nur zu Informations- und Bildungszwecken. Die praktische Anwendung der beschriebenen Methoden ohne ausdrückliche Erlaubnis ist illegal und kann strafrechtliche Konsequenzen nach sich ziehen. Leser sollten diese Informationen ausschließlich im Rahmen legaler und ethischer Richtlinien nutzen.&lt;/p&gt;</description>
     </item>
   </channel>

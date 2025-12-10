@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opt-Out on thevector</title>
-    <link>http://localhost:41937/tags/opt-out/</link>
+    <link>http://localhost:1313/tags/opt-out/</link>
     <description>Recent content in Opt-Out on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Mon, 13 Jan 2025 21:06:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41937/tags/opt-out/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opt-out/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die elektronische Patientenakte: Ein Datenschutzunglück in Zeitlupe?</title>
-      <link>http://localhost:41937/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</link>
+      <link>http://localhost:1313/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</link>
       <pubDate>Mon, 13 Jan 2025 21:06:00 +0100</pubDate>
-      <guid>http://localhost:41937/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</guid>
+      <guid>http://localhost:1313/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</guid>
       <description>&lt;p&gt;Die Einführung der elektronischen Patientenakte (ePA) wird politisch als Meilenstein der Digitalisierung im Gesundheitswesen verkauft, gleichzeitig warnen Sicherheits- und Datenschutzexperten seit Jahren vor gravierenden Schwachstellen. Durch das Opt-out-Verfahren stehen faktisch die Gesundheitsdaten von rund 70 Millionen Versicherten im Fokus – oft ohne ausreichende Transparenz über Risiken und Schutzmechanismen.&lt;/p&gt;</description>
     </item>
   </channel>

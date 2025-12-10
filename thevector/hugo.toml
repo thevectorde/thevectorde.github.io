@@ -7,8 +7,9 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = 'Aktuelle IT-News und Blogbeiträge rund um Datenschutz, IT-Security und Technologie – verfasst IT-Security-Enthusiasten. Frische Perspektiven, fundiertes Wissen und spannende Einblicke in die digitale Welt.'
+	description = 'Aktuelle IT-News und Blogbeiträge rund um Datenschutz, IT-Security und Technologie – verfasst von IT-Security-Enthusiasten. Frische Perspektiven, fundiertes Wissen und spannende Einblicke in die digitale Welt.'
 	mainSections = 'posts'
+
 
 [author]
 	name = 'Pius Werner'
@@ -24,17 +25,21 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 		pageRef = '/'
 		weight = 10
 	[[menu.main]]
-		name = 'About'
-		pageRef = '/about'
-		weight = 25
+		name = 'News'
+		pageRef = '/tags/News/'
+		weight = 15
 	[[menu.main]]
-		name = 'Tags'
-		pageRef = '/tags'
+		name = 'Datenschutz'
+		pageRef = '/tags/Datenschutz/'
 		weight = 20
 	[[menu.main]]
-		name = 'News'
-		pageRef = '/tags/news'
-		weight = 15
+		name = 'IT-Security'
+		pageRef = '/tags/IT-Security/'
+		weight = 25
+	[[menu.main]]
+		name = 'Über uns'
+		pageRef = '/posts/about'
+		weight = 30
 
 # Taxonomy terms
 tags = ['blog', 'responsive', 'light', 'tailwindcss']

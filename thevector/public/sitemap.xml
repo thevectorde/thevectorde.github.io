@@ -2,103 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41937/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/about/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/it-security/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/news/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/open-source/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%C3%BCber-uns/</loc>
+    <lastmod>2025-12-10T17:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/canarytokens/</loc>
+    <loc>http://localhost:1313/tags/canarytokens/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/categories/</loc>
+    <loc>http://localhost:1313/tags/deception/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/deception/</loc>
+    <loc>http://localhost:1313/tags/detection/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/detection/</loc>
+    <loc>http://localhost:1313/tags/dns/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/dns/</loc>
+    <loc>http://localhost:1313/tags/honeypots/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/honeypots/</loc>
+    <loc>http://localhost:1313/categories/it-security/</loc>
     <lastmod>2025-06-12T15:36:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/categories/it-security/</loc>
-    <lastmod>2025-06-12T15:36:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41937/posts/</loc>
-    <lastmod>2025-06-12T15:36:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41937/tags/</loc>
-    <lastmod>2025-06-12T15:36:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41937/</loc>
-    <lastmod>2025-06-12T15:36:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41937/tags/appsec/</loc>
+    <loc>http://localhost:1313/tags/appsec/</loc>
     <lastmod>2025-01-17T19:28:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</loc>
+    <loc>http://localhost:1313/posts/2025/die-owasp-top-10-ein-umfassender-leitfaden-fur-web-sicherheitsexperten-im-jahr-2025/</loc>
     <lastmod>2025-01-17T19:28:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/owasp/</loc>
+    <loc>http://localhost:1313/tags/owasp/</loc>
     <lastmod>2025-01-17T19:28:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/top10/</loc>
+    <loc>http://localhost:1313/tags/top10/</loc>
     <lastmod>2025-01-17T19:28:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/websecurity/</loc>
+    <loc>http://localhost:1313/tags/websecurity/</loc>
     <lastmod>2025-01-17T19:28:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/categories/datenschutz/</loc>
+    <loc>http://localhost:1313/categories/datenschutz/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/datenschutz/</loc>
+    <loc>http://localhost:1313/tags/datenschutz/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</loc>
+    <loc>http://localhost:1313/posts/2025/der-ai-act-europas-weg-zu-einer-sicheren-und-verantwortungsvollen-ki/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/dsgvo/</loc>
+    <loc>http://localhost:1313/tags/dsgvo/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/europa/</loc>
+    <loc>http://localhost:1313/tags/europa/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/categories/news/</loc>
+    <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2025-01-16T07:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/akustik/</loc>
+    <loc>http://localhost:1313/tags/akustik/</loc>
     <lastmod>2025-01-14T17:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</loc>
+    <loc>http://localhost:1313/posts/2025/akustischer-seitenkanalangriff-auf-tastaturen/</loc>
     <lastmod>2025-01-14T17:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/coatnet/</loc>
+    <loc>http://localhost:1313/tags/coatnet/</loc>
     <lastmod>2025-01-14T17:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2025-01-14T17:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/side-channel/</loc>
+    <loc>http://localhost:1313/tags/side-channel/</loc>
     <lastmod>2025-01-14T17:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</loc>
+    <loc>http://localhost:1313/posts/2025/die-elektronische-patientenakte-ein-datenschutzunglueck-in-zeitlupe/</loc>
     <lastmod>2025-01-13T21:06:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/epa/</loc>
+    <loc>http://localhost:1313/tags/epa/</loc>
     <lastmod>2025-01-13T21:06:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/gesundheitskarte/</loc>
+    <loc>http://localhost:1313/tags/gesundheitskarte/</loc>
     <lastmod>2025-01-13T21:06:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/opt-out/</loc>
+    <loc>http://localhost:1313/tags/opt-out/</loc>
     <lastmod>2025-01-13T21:06:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41937/tags/telematik/</loc>
+    <loc>http://localhost:1313/tags/telematik/</loc>
     <lastmod>2025-01-13T21:06:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/analysis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/it-news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/security/</loc>
   </url>
 </urlset>

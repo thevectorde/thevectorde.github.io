@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dns on thevector</title>
-    <link>http://localhost:41937/tags/dns/</link>
+    <link>http://localhost:1313/tags/dns/</link>
     <description>Recent content in Dns on thevector</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 12 Jun 2025 15:36:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41937/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canary Tokens: Früherkennung durch Täuschung</title>
-      <link>http://localhost:41937/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</link>
+      <link>http://localhost:1313/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</link>
       <pubDate>Thu, 12 Jun 2025 15:36:00 +0200</pubDate>
-      <guid>http://localhost:41937/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</guid>
+      <guid>http://localhost:1313/posts/2025/canary-tokens-frueherkennung-durch-taeuschung/</guid>
       <description>&lt;p&gt;Moderne Cybersicherheit erfordert mehr als nur präventive Maßnahmen – sie braucht aktive Detektionsmechanismen, die Angreifer frühzeitig enttarnen. Täuschungstechniken (Deception Technologies) wie Canarytokens unterstützen Organisationen dabei, unbefugte Aktivitäten schnell zu identifizieren, bevor kritische Systeme kompromittiert werden.[web:31][web:45]&lt;/p&gt;</description>
     </item>
   </channel>
