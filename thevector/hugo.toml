@@ -11,10 +11,17 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 	mainSections = 'posts'
 
 
-[author]
-	name = 'Pius Werner'
-	bio = 'IT-Security Enthusiast'
-	avatar = '/images/author/pius.jpg'
+  [params.authors]
+
+    [params.authors.pius]
+      name   = "Pius Werner"
+      bio    = "IT-Security Enthusiast"
+      avatar = "/images/author/pius.jpg"
+
+    [params.authors.arne]
+      name   = "Arne Bauer"
+      bio    = "IT-Security Enthusiast"
+      # avatar = "/images/author/arne.jpg"
 
 [pagination]
 	pagerSize = 6

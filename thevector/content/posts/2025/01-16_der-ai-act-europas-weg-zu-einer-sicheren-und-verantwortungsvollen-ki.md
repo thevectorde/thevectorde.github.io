@@ -15,7 +15,7 @@ tags:
   - europa
   - News
 draft: false
-author: Pius Werner
+author: Pius
 ---
 
 Am 2. August 2024 trat der Artificial Intelligence Act (AI Act) der Europäischen Union in Kraft, ein bahnbrechendes Gesetz, das als weltweit erstes staatenübergreifendes Regelwerk für künstliche Intelligenz (KI) gilt. Dieses umfassende Regelwerk zielt darauf ab, einen ausgewogenen Ansatz zwischen Innovation und Sicherheit zu finden, indem es klare Richtlinien für die Entwicklung, den Einsatz und den Vertrieb von KI-Systemen innerhalb der EU festlegt.

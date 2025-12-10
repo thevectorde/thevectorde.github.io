@@ -13,7 +13,7 @@ tags:
   - gesundheitskarte
   - opt-out
 draft: false
-author: Arne Bauer
+author: "arne"
 ---
 
 Die Einführung der elektronischen Patientenakte (ePA) wird politisch als Meilenstein der Digitalisierung im Gesundheitswesen verkauft, gleichzeitig warnen Sicherheits- und Datenschutzexperten seit Jahren vor gravierenden Schwachstellen. Durch das Opt-out-Verfahren stehen faktisch die Gesundheitsdaten von rund 70 Millionen Versicherten im Fokus – oft ohne ausreichende Transparenz über Risiken und Schutzmechanismen.

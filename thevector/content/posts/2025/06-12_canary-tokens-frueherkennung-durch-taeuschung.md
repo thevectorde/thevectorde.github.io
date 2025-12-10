@@ -15,7 +15,7 @@ tags:
   - detection
   - IT-Security
 draft: false
-author: Pius Werner
+author: Pius
 ---
 
 Moderne Cybersicherheit erfordert mehr als nur präventive Maßnahmen – sie braucht aktive Detektionsmechanismen, die Angreifer frühzeitig enttarnen. Täuschungstechniken (Deception Technologies) wie Canarytokens unterstützen Organisationen dabei, unbefugte Aktivitäten schnell zu identifizieren, bevor kritische Systeme kompromittiert werden.[web:31][web:45]

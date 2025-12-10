@@ -14,7 +14,7 @@ tags:
   - coatnet
   - IT-Security
 draft: false
-author: Pius Werner
+author: Pius
 ---
 
 ## Wichtiger Hinweis

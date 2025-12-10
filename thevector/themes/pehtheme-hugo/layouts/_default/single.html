@@ -17,14 +17,21 @@
       
       <div id="writer" class="flex items-center space-x-4">
 
-        {{- $authorName := .Params.author | default .Site.Params.Author.name -}}
-        {{- $authorAvatar := .Site.Params.Author.avatar -}}
+        
+        {{/* Autor ermitteln (Slug aus Frontmatter, Fallback "pius") */}}
+        {{- $authorKey    := .Params.author | default "pius" -}}
+        {{- $author       := index .Site.Params.authors $authorKey -}}
+        {{- $authorName   := $author.name -}}
+        {{- $authorAvatar := $author.avatar -}}
+        {{- $authorBio    := $author.bio -}}
 
-        {{- with $avatar := resources.Get $authorAvatar }}
 
-        <img class="w-12 h-12 bg-black rounded-full" src="{{ $avatar.Permalink }}" alt="{{ $authorName }} avatar" width="{{ $avatar.Width }}" height="{{ $avatar.Height }}">
+        
+        {{- if $authorAvatar }}
+        <img class="w-12 h-12 rounded-full object-cover" src="{{ $authorAvatar }}" alt="{{ $authorName }}">
+        {{- end }}
+        
 
-        {{ end -}}
 
         <ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
 
@@ -37,7 +44,7 @@
           </li>
 
           <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
-            {{ .ReadingTime }} min read
+            {{ .ReadingTime }} Min. Lesezeit
           </li>
 
         </ul>
@@ -83,23 +90,25 @@
     </div>
 
     <footer id="content-footer" class="not-prose">
-        <!--
+      
       <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl">
 
-        {{- $authorName := .Params.author | default .Site.Params.Author.name -}}
-        {{- $authorBio := .Site.Params.Author.bio -}}
-        {{- $authorAvatar := .Site.Params.Author.avatar -}}
+        {{- $authorKey    := .Params.author | default "pius" -}}
+        {{- $author       := index .Site.Params.authors $authorKey -}}
+        {{- $authorName   := $author.name -}}
+        {{- $authorAvatar := $author.avatar -}}
+        {{- $authorBio    := $author.bio -}}
 
         {{- if $authorAvatar }}
-        <img class="w-20 h-20 rounded-full" src="{{ $authorAvatar }}" alt="{{ $authorName }}">
+        <img class="w-20 h-20 rounded-full object-cover" src="{{ $authorAvatar }}" alt="{{ $authorName }}">
         {{- end }}
 
-        <h2 class="text-xl font-bold my-4">Written by : {{ $authorName }}</h2>
+        <h2 class="text-xl font-bold my-4">Geschrieben von : {{ $authorName }}</h2>
 
         <p class="mb-4">{{ $authorBio }}</p>
 
       </div>
-        -->
+        
 <div id="related-post" class="">
 
   {{- $related := .Site.RegularPages.Related . | first 2 -}}
@@ -107,7 +116,7 @@
   {{- if gt (len $related) 0 -}}
 
   <!-- Related Posts via Hugo's Related Function -->
-  <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
+  <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Für dich empfohlen</h2>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 

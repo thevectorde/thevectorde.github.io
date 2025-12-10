@@ -14,7 +14,7 @@ tags:
   - appsec
   - IT-Security
 draft: false
-author: Berkay Can
+author: Berkay
 ---
 
 Ein weiterer Hackerangriff, ein weiteres Unternehmen, das mit den Folgen eines Datenlecks kämpft – solche Meldungen sind längst Alltag. Die OWASP Top 10 bieten hier einen etablierten Rahmen, um die gravierendsten Schwachstellen in Webanwendungen zu verstehen und systematisch zu reduzieren.[web:65][web:69]
