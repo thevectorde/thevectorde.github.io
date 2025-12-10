@@ -56,3 +56,20 @@ features = ['tailwindcss', 'two-column', 'sidebar', 'horizontal-menu']
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
+
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
