@@ -82,6 +82,8 @@
 
   </section>
 
+  {{- partial "content/newsletter.html" . -}}
+
   <section class="mb-16">
 
     {{ $cat := "IT-Security" }}
@@ -144,6 +146,5 @@
 
 <!-- / End recent post  -->
 
-  {{- partial "content/newsletter.html" . -}}
 </div>
 {{ end }}
