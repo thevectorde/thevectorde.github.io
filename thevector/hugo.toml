@@ -1,6 +1,6 @@
 baseURL     = 'https://thevector.de/'
 languageCode = 'de-DE'
-title       = 'theVector – Cybersecurity, Datenschutz & Tech-News'
+title       = 'the Vector – Cybersecurity, Datenschutz & Tech-News'
 theme       = 'pehtheme-hugo'
 
 # ~20 Wörter ≈ 150–160 Zeichen für SERP-Snippets
