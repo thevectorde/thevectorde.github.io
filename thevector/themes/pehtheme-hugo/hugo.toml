@@ -1,1 +1,41 @@
-## example toml
+baseURL = 'https://thevector.de/'
+languageCode = 'de-DE'
+title = 'theVector'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
