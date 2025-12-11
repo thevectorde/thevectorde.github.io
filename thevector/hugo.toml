@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   # Max. ~160 Zeichen, Fokus-Keywords vorne
-  description = 'IT-Security, Datenschutz und Technologie-News: Analysen, Hintergründe und Einschätzungen zu Cybersecurity, KI, ePA, OWASP und moderner Softwareentwicklung.'
+  description = 'IT-Security, Datenschutz und Technologie-News: Nachrichten und Hintergründe zu professioneller IT.'
   mainSections = ['posts']
 
   # Brand / SEO-Basics

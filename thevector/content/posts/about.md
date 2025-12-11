@@ -1,5 +1,5 @@
 ---
-title: "Ein Blick hinter die Kulissen – Was theVector antreibt"
+title: "Ein Blick hinter die Kulissen: Was theVector antreibt"
 date: 2025-12-10T17:15:00+01:00
 slug: /about/
 description: Hinter theVector steht ein unabhängiges Open-Source-Projekt mit dem Ziel, fundiertes Wissen zu IT-Sicherheit, Datenschutz und Digitalpolitik frei zugänglich zu machen.
