@@ -1,0 +1,8 @@
+<figure class="video-figure">
+  <video class="{{ .Get "class" }}" {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }} {{ if eq (.Get "loop") "true" }}loop{{ end }} {{ if eq (.Get "muted") "true" }}muted{{ end }} controls>
+    <source src="{{ .Get "src" }}" type="video/mp4">
+  </video>
+  {{ with .Get "caption" }}
+    <figcaption class="video-caption">{{ . }}</figcaption>
+  {{ end }}
+</figure>
