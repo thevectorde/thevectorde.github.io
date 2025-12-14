@@ -28,7 +28,8 @@ Im Gegensatz zur reinen Massenfertigung für Consumer-Elektronik zielt das Proje
 Für den Standort Erfurt genehmigte Brüssel 128 Millionen Euro Beihilfen für X-FAB. Unter dem Projektnamen „Fab4Micro“ soll dort eine neue Fertigungsstätte entstehen, die auf mikroelektromechanische Systeme (MEMS) in Kombination mit fortschrittlichen Packaging-Verfahren spezialisiert ist.
 
 Die Anlage ist als „Open Foundry“ konzipiert. Das bedeutet, dass sie Fertigungsdienstleistungen primär für Fabless-Unternehmen, Start-ups und KMUs anbietet, die bislang oft auf Auftragsfertiger außerhalb Europas angewiesen waren. Die Chips sollen vorwiegend in der Automobilindustrie, für KI-Anwendungen und in der Medizintechnik zum Einsatz kommen. Der kommerzielle Betrieb der neuen Anlage ist für 2029 geplant.
-Verpflichtungen im Krisenfall
+
+### Verpflichtungen im Krisenfall
 
 Die Genehmigung der Staatshilfen ist an Bedingungen geknüpft. Beide Unternehmen haben sich verpflichtet, ihre Werke als „Open EU Foundries“ im Sinne des EU-Chips-Gesetzes anerkennen zu lassen. Dies beinhaltet die Pflicht, im Falle einer von der EU festgestellten Versorgungskrise („Supply Crisis“) vorrangige Aufträge (Priority-rated orders) zu bedienen, um Engpässe bei kritischen Gütern zu vermeiden.
 
