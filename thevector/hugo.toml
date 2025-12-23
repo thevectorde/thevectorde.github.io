@@ -48,7 +48,7 @@ enableRobotsTXT = true
 
     [params.authors.arne]
       name   = 'Arne Bauer'
-      bio    = 'Freiberuflicher IT-Journalist mit Schwerpunkt Cybersecurity, KI und Cloud. Analysiert Trends, Angriffe und Technologien in der professionellen IT.'
+      bio    = 'Schreibt über die Schwerpunkte Cybersecurity, KI und Cloud. Analysiert Trends, Angriffe und Technologien in der professionellen IT.'
       avatar = '/images/author/arne.jpg'
 
 [pagination]
