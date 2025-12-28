@@ -44,4 +44,4 @@ Zudem sollte die Option `--import-options restore` niemals bei Dateien aus unsic
 
 ---
 Den Vortrag findet ihr [hier](https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i).    
-Eine Website mit weiteren Informationen der Sicherehitsforscher findet ihr [hier](https://gpg.fail/).
+Eine Website mit weiteren Informationen der Sicherheitsforscher findet ihr [hier](https://gpg.fail/).
