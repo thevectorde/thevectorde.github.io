@@ -111,7 +111,7 @@ features = ['tailwindcss','two-column','sidebar','horizontal-menu']
     weight = 10
 
 [outputs]
-  home = ['html', 'rss']
+  home = ['html', 'rss', 'JSON']
   section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']
