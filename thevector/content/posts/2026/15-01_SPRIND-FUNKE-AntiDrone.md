@@ -1,6 +1,6 @@
 ---
 title: "SPRIND: Deutschland soll springen"
-date: '2026-01-15T14:04:11+01:00'
+date: '2026-01-15T13:04:11+01:00'
 description: Deutschlands Bundesagentur für Sprunginnovation (SPRIND) sucht Lösungen zum Schutz kritischer Infrastruktur vor Drohnen. Unkomplizierte Förderung soll Abhilfe schaffen.
 image: images/posts/airport.jpeg
 caption: Symbolbild Flughafen - Tomas Williams
