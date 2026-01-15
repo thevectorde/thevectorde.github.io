@@ -51,6 +51,11 @@ enableRobotsTXT = true
       bio    = 'Schreibt über die Schwerpunkte Cybersecurity, KI und Cloud. Analysiert Trends, Angriffe und Technologien in der professionellen IT.'
       avatar = '/images/author/arne.jpg'
 
+    [params.authors.bene]
+      name   = 'Benedikt Egetemeyr'
+      bio    = 'Schreibt über die Schwerpunkte KI, ComputerVision und Cloud. Scharfes Essen und Ultimate Frisbee treiben ihn an.'
+      avatar = '/images/author/bene.jpg'  
+
 [pagination]
   pagerSize = 6
 
