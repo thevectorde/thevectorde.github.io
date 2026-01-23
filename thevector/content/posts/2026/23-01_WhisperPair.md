@@ -30,10 +30,9 @@ Noch perfider: Bei nie mit Android gepairten Geräten kann der Angreifer seinen 
 |------------|-----------|
 | Sony | WH-1000XM6, WF-1000XM5 |
 | Jabra | Elite 8 Active, Elite 10 |
-| Anker Soundcore | Liberty 4, Space A40 |
+| Anker Soundcore | Liberty 4 |
 | Google | Pixel Buds Pro 2 |
 | OnePlus | Buds Pro 3 |
-| JBL | Tour Pro 2 |
 
 Eine vollständige Liste der bekannten Geräte finden sie [whisperpair.eu](https://whisperpair.eu).
 
