@@ -5,8 +5,7 @@ description: WhisperPair ist ein Angriff auf die Google-Fast-Pair-Funktion von B
 image: images/posts/whisperpair.jpg
 caption: Photo by Daniel Romero on Unsplash
 categories:
-  - News
-  - Security
+  - IT-Security
 tags:
   - Google
   - Cyberangriff
@@ -45,4 +44,4 @@ Denn obwohl Geräte vor Aktivierung der Fast Pair-Funktion einen Zertifizierungs
 Auch iPhone-Nutzer sind von der Schwachstelle betroffen, da die Fast-Pair-Funktion direkt in der Hardware implementiert ist.
 
 ### Schutz und Mitigation
- Nur ein Firmware-Update vom Hersteller hilft, denn Fast Pair deaktivieren, geht als Nutzer nicht. Daher prüft eure Geräte und installiert verfügbare Updates, denn bis zum Update bleibt das Risiko.
+Nur durch ein Firmware-Update des Herstellers kann die Schwachstelle behoben werden, da Fast Pair vom Nutzer nicht deaktiviert werden kann. Daher sollten die Geräte überprüft und verfügbare Updates installiert werden, da das Risiko bis zur Aktualisierung bestehen bleibt.
