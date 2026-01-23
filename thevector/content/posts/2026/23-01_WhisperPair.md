@@ -2,7 +2,7 @@
 title: "WhisperPair: Kritische Lücke in Google Fast Pair ermöglicht Hijacking von Bluetooth-Kopfhörer"
 date: '2026-01-23T16:05:12+01:00'
 description: WhisperPair ist ein BLuetooth Angriff, der eine schwere Schwachstelle in der Google Fast Pair-Implementierung von Bluetooth-Accessoires ausnutzt. Forscher der KU Leuven haben gezeigt, wie Angreifer drahtlose Kopfhörer oder Lautsprecher in Sekunden übernehmen und sogar orten können und das ganz ohne User-Interaktion.
-image: images/posts/whisperpair.jpeg
+image: images/posts/whisperpair.jpg
 caption: Photo by Daniel Romero on Unsplash
 categories:
   - News
